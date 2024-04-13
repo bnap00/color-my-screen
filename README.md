@@ -1,14 +1,28 @@
----
-name: HTML Starter
-slug: html-starter-with-analytics
-description: HTML5 template with analytics and advanced routing configuration.
-deployUrl: https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/html&project-name=html
-relatedTemplates:
-  - nextjs-boilerplate
----
+# Color My Screen
 
-# HTML Starter
+## Introduction
+Color My Screen is a simple yet effective tool designed to turn your computer monitor into a key light. By allowing users to change their screen's background color, it can provide adjustable lighting in dark environments, making it ideal for video calls, photography, or simply working in low-light conditions.
 
-This is a starter HTML5 templates which is configured with Vercel Analytics (through a `script` tag), advanced routing with [Vercel Edge Middleware](https://vercel.com/docs/concepts/functions/edge-middleware), as well as some basic styles
+## Features
+- **Customizable Color Picker**: Choose any color to illuminate your space according to your needs.
+- **Persistent Settings**: Your last used color setting is saved and will be automatically applied when you revisit the site.
+- **Full Screen Mode**: Maximizes the color display to the full screen for maximum light output.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/vercel/examples/tree/main/solutions/html&project-name=html)
+## How to Use
+1. **Navigate** to [color-my-screen](http://color-my-screen.com) from any web browser.
+2. **Pick a Color**: Use the color picker to choose a desired color. The screen will immediately change to this color.
+3. **Adjust as Needed**: Change the color anytime to suit your lighting needs.
+
+## Use Cases
+- **Video Conferencing**: Improve your visibility during video calls in dark settings.
+- **Photography**: Use it as a background light for photography.
+- **General Lighting**: Simply use it to light up your room while working late.
+
+## Technical Details
+This tool is built using simple HTML and JavaScript to ensure fast load times and smooth performance across all devices.
+
+## Feedback and Contributions
+We appreciate any feedback or contributions to improve Color My Screen. Please feel free to fork the repository or submit issues and pull requests with your ideas and bug reports.
+
+## License
+Distributed under the MIT License. See `LICENSE` for more information.
