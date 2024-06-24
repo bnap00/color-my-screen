@@ -9,7 +9,7 @@ Color My Screen is a simple yet effective tool designed to turn your computer mo
 - **Full Screen Mode**: Maximizes the color display to the full screen for maximum light output.
 
 ## How to Use
-1. **Navigate** to [color-my-screen](http://color-my-screen.com) from any web browser.
+1. **Navigate** to [color-my-screen](https://color-my-screen.vercel.app/) from any web browser.
 2. **Pick a Color**: Use the color picker to choose a desired color. The screen will immediately change to this color.
 3. **Adjust as Needed**: Change the color anytime to suit your lighting needs.
 
